@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoftwareIdentity xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xmlns:discovery="http://packagemanagement.org/discovery"
+    
+    patch="false"
+    media="(OS:windows)"
+    name="Chocolatey"
+    tagVersion="1" uniqueId="Chocolatey"
+    version="2.8.5.101" versionScheme="multipartnumeric">
+
+    <!--
+        This swidtag is a Discovery Feed that has pointers to the SWIDTAGs for
+        the providers that the bootstrapper can download.
+    -->
+
+    <Link
+        href="https://oneget.org/chocolatey-2.8.5.101.package.swidtag"
+        type="application/swid-tag+xml"
+        rel="package"
+        
+        discovery:name="chocolatey"
+        discovery:version="2.8.5.101"
+        media="(OS:windows)"
+    />
+    
+    <Link
+        href="https://oneget.org/chocolatey-2.8.5.24.package.swidtag"
+        type="application/swid-tag+xml"
+        rel="package"
+        
+        discovery:name="chocolatey"
+        discovery:version="2.8.5.24"
+        media="(OS:windows)"
+    />
+</SoftwareIdentity>
+

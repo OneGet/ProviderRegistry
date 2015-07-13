@@ -6,8 +6,8 @@
     patch="false"
     media="(OS:windows)"
     name="OneGet.Providers"
-    tagVersion="1" uniqueId="OneGet.Providers.5"
-    version="1.15.122.18327" versionScheme="multipartnumeric">
+    tagVersion="1" uniqueId="OneGet.Providers.1"
+    version="1.15.194.0" versionScheme="multipartnumeric">
 
     <!--
         This swidtag is a Discovery Feed that has pointers to the SWIDTAGs for
@@ -15,24 +15,24 @@
     -->
 
     <Link
-        href="https://oneget.org/nuget-2.8.5.122.package.swidtag"
+        href="https://oneget.org/nuget-2.8.5.127.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         
         discovery:name="nuget"
         discovery:latest="true"
-        discovery:version="2.8.5.122"
+        discovery:version="2.8.5.127"
         media="(OS:windows)"
     />
 
     <Link
-        href="https://oneget.org/chocolatey-2.8.5.24.package.swidtag"
+        href="https://oneget.org/ChocolateyPrototype-2.8.5.130.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         
         discovery:name="chocolatey"
         discovery:latest="true"
-        discovery:version="2.8.5.24"
+        discovery:version="2.8.5.130"
         media="(OS:windows)"
     />
     
@@ -46,7 +46,7 @@
     />
 
     <Link
-        href="https://oneget.org/chocolatey.feed.swidtag"
+        href="https://oneget.org/chocolateyprototype.feed.swidtag"
         type="application/swid-tag+xml"
         rel="feed"
         

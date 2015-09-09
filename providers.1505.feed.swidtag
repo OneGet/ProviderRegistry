@@ -14,6 +14,17 @@
         the providers that the bootstrapper can download.
     -->
 
+     <Link
+        href="https://oneget.org/nuget-2.8.5.201.package.swidtag"
+        type="application/swid-tag+xml"
+        rel="package"
+        
+        discovery:name="nuget"
+        discovery:latest="true"
+        discovery:version="2.8.5.201"
+        media="(OS:windows)"
+    />
+    
     <Link
         href="https://oneget.org/nuget-2.8.5.127.package.swidtag"
         type="application/swid-tag+xml"

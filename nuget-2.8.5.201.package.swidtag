@@ -17,7 +17,7 @@
   />
 
   <Link
-      href='https://oneget.org/Microsoft.PackageManagement.NugetLightProvider.dll'
+      href='https://oneget.org/Microsoft.PackageManagement.NugetLightProvider-2.8.5.201.dll'
       type="application/octet-stream"
       rel="installationmedia"
 

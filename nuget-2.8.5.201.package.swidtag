@@ -1,4 +1,4 @@
-Enter file contents here<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <SoftwareIdentity
     xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd"
     xmlns:discovery="http://packagemanagement.org/discovery"

@@ -15,7 +15,7 @@
     -->
 
     <Link
-        href="https://oneget.org/nuget-2.8.5.201.package.swidtag"
+        href="https://oneget.org/nuget-coreclr-2.8.5.201.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         

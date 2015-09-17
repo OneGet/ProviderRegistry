@@ -17,7 +17,7 @@
   />
 
   <Link
-      href='https://dl.dropboxusercontent.com/u/87556854/Microsoft.PackageManagement.NugetLightProvider.2.8.5.201.nupkg'
+      href='https://dl.dropboxusercontent.com/u/87556854/nuget-anycpu-2.8.5.201.exe'
       type="application/vnd.packagemanagement.nuget-package"
       rel="installationmedia"
 

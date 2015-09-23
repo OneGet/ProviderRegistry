@@ -13,6 +13,7 @@
   <Meta
       providerName="nuget"
       providerVersion='2.8.5.201'
+      providerType='assembly'
       summary="NuGet provider for the OneGet meta-package manager"
   />
 

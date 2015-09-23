@@ -26,7 +26,7 @@
     />
 
     <Link
-        href="https://oneget.org/nuget.feed.swidtag"
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/nuget-coreclr.feed.swidtag"
         type="application/swid-tag+xml"
         rel="feed"
         

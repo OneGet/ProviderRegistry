@@ -2,7 +2,7 @@
 <SoftwareIdentity
     xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd"
     xmlns:discovery="http://packagemanagement.org/discovery"
-    xmlns:SHA512="http://www.w3.org/2001/04/xmlenc#sha512"
+    xmlns:sha512="http://www.w3.org/2001/04/xmlenc#sha512"
     
     name="nuget"
     versionScheme="multipartnumeric"
@@ -12,8 +12,8 @@
 >
 
   <Payload>
-        <File name="nuget-anycpu-2.8.5.201.exe" size="1024010" 
-           SHA512:hash="9HhaL8dk8mzupuzy855mepSttw5bU/byJVCjm0jVz2vJKFhNgUOayCqTY9Mq5itZaaC6dVRcJ/gRHXdub9Q95g==" />
+        <File name="nuget-anycpu-2.8.5.201.exe"
+           sha512:hash="9HhaL8dk8mzupuzy855mepSttw5bU/byJVCjm0jVz2vJKFhNgUOayCqTY9Mq5itZaaC6dVRcJ/gRHXdub9Q95g==" />
   </Payload>
   
   <Meta

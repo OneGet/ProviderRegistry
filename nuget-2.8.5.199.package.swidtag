@@ -25,6 +25,7 @@
       discovery:targetFilename="nuget-anycpu.exe"
       discovery:type="assembly"
       hash="2345sdkfdsf"
+      HashAlgorithm="SHA512"
       media="(OS:windows)"
   />
  </SoftwareIdentity>

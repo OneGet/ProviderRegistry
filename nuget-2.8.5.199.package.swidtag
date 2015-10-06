@@ -9,14 +9,16 @@
     tagVersion="1"    version='2.8.5.199' 
     uniqueId='nuget.2.8.5.199'
 >
-
+  <Payload>
+  <File name="nuget-anycpu-2.8.5.199.exe" size="1024010" 
+           SHA512:hash="a314fc2dc663ae7a6b6bc6787594057396e6b3f569cd50fd5ddb4d1bbafd2b6a" />
+  </Payload>
+  
   <Meta
       providerName="nuget"
       providerVersion='2.8.5.199'
       providerType='assembly'
       summary="NuGet provider for the OneGet meta-package manager"
-      packageHash="2345sdkfdsf"
-      packageHashAlgorithm="SHA512"
   />
 
   <Link

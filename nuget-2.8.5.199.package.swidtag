@@ -15,6 +15,8 @@
       providerVersion='2.8.5.199'
       providerType='assembly'
       summary="NuGet provider for the OneGet meta-package manager"
+      packageHash="2345sdkfdsf"
+      packageHashAlgorithm="SHA512"
   />
 
   <Link
@@ -24,8 +26,6 @@
 
       discovery:targetFilename="nuget-anycpu.exe"
       discovery:type="assembly"
-      hash="2345sdkfdsf"
-      HashAlgorithm="SHA512"
       media="(OS:windows)"
   />
  </SoftwareIdentity>

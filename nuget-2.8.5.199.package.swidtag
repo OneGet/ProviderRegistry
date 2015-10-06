@@ -11,7 +11,7 @@
     uniqueId='nuget.2.8.5.201'
 >
   <Payload>
-        <File name="nuget-anycpu-2.8.5.199.exe" size="1024010" 
+        <File name="nuget-anycpu-2.8.5.201.exe" size="1024010" 
            SHA512:hash="a314fc2dc663ae7a6b6bc6787594057396e6b3f569cd50fd5ddb4d1bbafd2b6a" />
   </Payload>
   

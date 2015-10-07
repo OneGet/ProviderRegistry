@@ -2,6 +2,7 @@
 <SoftwareIdentity
     xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd"
     xmlns:discovery="http://packagemanagement.org/discovery"
+    xmlns:sha512="http://www.w3.org/2001/04/xmlenc#sha512"
     
     name="nuget"
     versionScheme="multipartnumeric"
@@ -10,6 +11,11 @@
     uniqueId='nuget.2.8.5.201'
 >
 
+  <Payload>
+        <File name="Microsoft.PackageManagement.NuGetProvider.dll"
+           sha512:hash="H9/nmgyt3m991MLe53rfxDtov1RnsrfVvotzLM9h7icztQDoIijxJXg/so1uxNIYjleyOVHK/48E+ufRd9Q5uw==" />
+  </Payload>
+  
   <Meta
       providerName="nuget"
       providerVersion='2.8.5.201'

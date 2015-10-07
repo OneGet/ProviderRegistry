@@ -13,7 +13,7 @@
 
   <Payload>
         <File name="nuget-anycpu-2.8.5.201.exe"
-           sha512:hash="" />
+           sha256:hash="H9/nmgyt3m991MLe53rfxDtov1RnsrfVvotzLM9h7icztQDoIijxJXg/so1uxNIYjleyOVHK/48E+ufRd9Q5uw==" />
   </Payload>
   
   <Meta

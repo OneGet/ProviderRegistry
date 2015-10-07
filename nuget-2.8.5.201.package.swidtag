@@ -2,7 +2,7 @@
 <SoftwareIdentity
     xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd"
     xmlns:discovery="http://packagemanagement.org/discovery"
-    xmlns:sha512="http://www.w3.org/2001/04/xmlenc#sha512"
+    xmlns:sha256="http://www.w3.org/2001/04/xmlenc#sha512"
     
     name="nuget"
     versionScheme="multipartnumeric"

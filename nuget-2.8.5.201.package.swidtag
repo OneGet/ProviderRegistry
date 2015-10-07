@@ -2,7 +2,7 @@
 <SoftwareIdentity
     xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd"
     xmlns:discovery="http://packagemanagement.org/discovery"
-    xmlns:md1="http://www.w3.org/2001/04/xmldsig-more#md1"
+    xmlns:md5="http://www.w3.org/2001/04/xmldsig-more#md5"
     
     name="nuget"
     versionScheme="multipartnumeric"
@@ -13,7 +13,7 @@
 
   <Payload>
         <File name="nuget-anycpu-2.8.5.201.exe"
-           md1:hash="wHUoyT/niaqTonGo32z0Vw==" />
+           md5:hash="wHUoyT/niaqTonGo32z0Vw==" />
   </Payload>
   
   <Meta

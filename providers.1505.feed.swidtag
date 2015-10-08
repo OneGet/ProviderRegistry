@@ -15,7 +15,7 @@
     -->
 
      <Link
-        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/nuget-2.8.5.201.package.swidtag"
+        href="http://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/nuget-2.8.5.201.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         

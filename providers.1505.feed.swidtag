@@ -37,7 +37,7 @@
     />
 
     <Link
-        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/nuget.feed.swidtag"
+        href="http://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/nuget.feed.swidtag"
         type="application/swid-tag+xml"
         rel="feed"
         

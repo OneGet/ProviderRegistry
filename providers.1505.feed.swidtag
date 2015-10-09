@@ -26,7 +26,7 @@
     />
 
     <Link
-        href="https://oneaget.org/ChocolateyPrototype-2.8.5.130.package.swidtag"
+        href="https://oneget.org/ChocolateyPrototype-2.8.5.130.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         
@@ -46,7 +46,7 @@
     />
 
     <Link
-        href="https://oneget.org/chocolateyprototype.feed.swidtag"
+        href="https://onegeat.org/chocolateyprototype.feed.swidtag"
         type="application/swid-tag+xml"
         rel="feed"
         

@@ -6,18 +6,18 @@
     name="nuget"
     versionScheme="multipartnumeric"
     media="(windows)"
-    tagVersion="1"    version='2.8.5.212' 
-    uniqueId='nuget.2.8.5.212'
+    tagVersion="1"    version='2.8.5.213' 
+    uniqueId='nuget.2.8.5.213'
 >
 
   <Meta
       providerName="nuget"
-      providerVersion='2.8.5.212'
+      providerVersion='2.8.5.213'
       summary="NuGet provider for the OneGet meta-package manager"
   />
 
   <Link
-      href='https://oneget.org/Microsoft.PackageManagement.NuGetProvider-2.8.5.212.dll'
+      href='https://oneget.org/Microsoft.PackageManagement.NuGetProvider-2.8.5.213.dll'
       type="application/octet-stream"
       rel="installationmedia"
 

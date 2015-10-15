@@ -10,11 +10,6 @@
     tagVersion="1"    version='2.8.5.201' 
     uniqueId='nuget.2.8.5.201'
 >
-
-  <Payload>
-        <File name="Microsoft.PackageManagement.NuGetProvider.dll"
-           sha512:hash="a+SqPZAC2rA+MklKzlOHnRYU0qJN3yyHE0VA30mcGF+OOtgEWTWn5O2WRoBcpNTt6BZMNvSZwDqDp6RoS1kWqw==" />
-  </Payload>
   
   <Meta
       providerName="nuget"

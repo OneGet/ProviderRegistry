@@ -23,7 +23,7 @@
   />
 
   <Link
-      href='https://dl.dropboxusercontent.com/u/87556854/Microsoft.PackageManagement.NuGetProvider-coreclr-2.8.5.201.dll'
+      href='https://oneget.org/Microsoft.PackageManagement.NuGetProvider-coreclr-2.8.5.201.dll'
       type="application/octet-stream"
       rel="installationmedia"
 

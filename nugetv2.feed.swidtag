@@ -43,15 +43,6 @@
         discovery:version="2.8.5.122"
         media="(OS:windows)"
     />
-  <Link
-        href="https://oneget.org/nuget-2.8.5.120.package.swidtag"
-        type="application/swid-tag+xml"
-        rel="package"
-        
-        discovery:name="nuget"
-        discovery:version="2.8.5.120"
-        media="(OS:windows)"
-    />
 
   <Link
         href="https://oneget.org/nuget-2.8.5.101.package.swidtag"

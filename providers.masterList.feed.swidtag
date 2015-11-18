@@ -4,7 +4,7 @@
     xmlns:discovery="http://packagemanagement.org/discovery"
     
     patch="false"
-    media="(windows)"
+    media="(windows) and (windows.architecture:x64) and (min-windows.architecture:x32)"
     name="OneGet.Providers"
     tagVersion="1" uniqueId="OneGet.Providers.1"
     version="1.15.194.0" versionScheme="multipartnumeric">

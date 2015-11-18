@@ -4,7 +4,7 @@
     xmlns:discovery="http://packagemanagement.org/discovery"
     
     patch="false"
-    media="(OS:windows)"
+    media="(windows)"
     name="OneGet.Providers"
     tagVersion="1" uniqueId="OneGet.Providers.1"
     version="1.15.194.0" versionScheme="multipartnumeric">
@@ -22,7 +22,7 @@
         discovery:name="nuget"
         discovery:latest="true"
         discovery:version="2.8.5.201"
-        media="(OS:windows)"
+        media="(windows)"
     />
 
     <Link
@@ -33,7 +33,7 @@
         discovery:name="chocolatey"
         discovery:latest="true"
         discovery:version="2.8.5.130"
-        media="(OS:windows)"
+        media="(windows)"
     />
 
     <Link
@@ -42,7 +42,7 @@
         rel="feed"
         
         discovery:name="nuget"
-        media="(OS:windows)"
+        media="(windows)"
     />
 
     <Link
@@ -51,6 +51,6 @@
         rel="feed"
         
         discovery:name="chocolatey"
-        media="(OS:windows)"
+        media="(windows)"
     />
 </SoftwareIdentity>

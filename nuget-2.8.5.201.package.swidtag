@@ -18,11 +18,11 @@
 
   <Link
       href='https://dl.dropboxusercontent.com/u/87556854/ZipTest.zip'
-      type="application/octet-stream"
+      type="application/epub+zib"
       rel="installationmedia"
 
       discovery:targetFilename="Microsoft.PackageManagement.NuGetProvider.dll"
-      discovery:type="assembly"
+      discovery:type="zip"
       media="(OS:windows)"
   />
  </SoftwareIdentity>

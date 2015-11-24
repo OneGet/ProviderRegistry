@@ -18,7 +18,7 @@
 
   <Link
       href='https://dl.dropboxusercontent.com/u/87556854/ZipTest.zip'
-      type="application/epub+zib"
+      type="application/epub+zip"
       rel="installationmedia"
 
       discovery:targetFilename="Microsoft.PackageManagement.NuGetProvider.dll"

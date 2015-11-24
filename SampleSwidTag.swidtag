@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SoftwareIdentity
+    xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd"
+    xmlns:discovery="http://packagemanagement.org/discovery"
+    
+    name="sample"
+    versionScheme="multipartnumeric"
+    media="(windows)"
+    tagVersion="1"    version='1.1.1.1' 
+    uniqueId='sample.1.1.1.1'
+>
+
+  <Payload>
+        <File name="sample.dll"
+           sha512:hash="OqSkycKXuljAxkmRe8b3TsNCq9+Bzj3m62jwdpQ/nS7S/q4" />
+  </Payload>
+
+  <Meta
+      providerName="sample"
+      providerVersion='1.1.1.1'
+      summary="Sample provider for OneGet meta-package manager"
+  />
+
+  <Link
+      href='https://somedownloadlink.dll'
+      type="application/octet-stream"
+      rel="installationmedia"
+
+      discovery:targetFilename="sample.dll"
+      discovery:type="assembly"
+      media="(windows)"
+  />
+</SoftwareIdentity>

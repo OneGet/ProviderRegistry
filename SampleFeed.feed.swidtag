@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoftwareIdentity xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xmlns:discovery="http://packagemanagement.org/discovery"
+    
+    patch="false"
+    media="(windows)"
+    name="sample"
+    tagVersion="1" uniqueId="sample"
+    version="1.1.1.1" versionScheme="multipartnumeric">
+
+    <!--
+        This swidtag is a Discovery Feed that has pointers to the SWIDTAGs for
+        the providers that the bootstrapper can download.
+    -->
+
+    <Link
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/master/SampleSwidTag.swidtag"
+        type="application/swid-tag+xml"
+        rel="package"
+        
+        discovery:name="sample"
+        discovery:version="1.1.1.1"
+        media="(windows)"
+    />
+    
+</SoftwareIdentity>

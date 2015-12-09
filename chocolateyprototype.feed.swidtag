@@ -15,7 +15,7 @@
     -->
 
     <Link
-        href="https://oneget.org/ChocolateyPrototype-2.8.5.130.package.swidtag"
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/master/ChocolateyPrototype-2.8.5.130.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         

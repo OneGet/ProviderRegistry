@@ -16,7 +16,7 @@
     summary="ChocolateyPrototype provider for the OneGet meta-package manager" />
 
   <Link
-    href='https://oneget.org/ChocolateyPrototype-2.8.5.130.exe'
+    href='https://az818661.vo.msecnd.net/providers/ChocolateyPrototype-2.8.5.130.exe'
     type="application/octet-stream"
     rel="installationmedia"
 

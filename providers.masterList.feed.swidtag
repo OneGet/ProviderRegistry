@@ -15,7 +15,7 @@
     -->
 
      <Link
-        href="https://oneget.org/nuget-2.8.5.201.package.swidtag"
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/master/nuget-2.8.5.201.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         
@@ -26,7 +26,7 @@
     />
 
     <Link
-        href="https://oneget.org/ChocolateyPrototype-2.8.5.130.package.swidtag"
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/master/ChocolateyPrototype-2.8.5.130.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         
@@ -37,7 +37,7 @@
     />
 
     <Link
-        href="https://oneget.org/nugetv2.feed.swidtag"
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/master/nugetv2.feed.swidtag"
         type="application/swid-tag+xml"
         rel="feed"
         
@@ -46,7 +46,7 @@
     />
 
     <Link
-        href="https://oneget.org/chocolateyprototype.feed.swidtag"
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/master/chocolateyprototype.feed.swidtag"
         type="application/swid-tag+xml"
         rel="feed"
         

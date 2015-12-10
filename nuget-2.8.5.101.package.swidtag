@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoftwareIdentity xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xmlns:discovery="http://packagemanagement.org/discovery"
+    
+    uniqueId="nuget.2.8.5.101"
+    name="nuget"
+    version="2.8.5.101" versionScheme="multipartnumeric"
+    media="(OS:windows)"
+    tagVersion="1"
+    >
+
+    <!--
+        This swidtag contains links to the installation media for the NuGet
+        provider
+    -->
+
+    <Meta
+        providerName="nuget"
+        providerVersion="2.8.5.101"
+        summary="NuGet provider for the OneGet meta-package manager"
+    />
+
+    <!-- NuGet Provider Swidtag Links -->
+    <Link
+        href="https://az818661.vo.msecnd.net/providers/nuget-anycpu-2.8.5.101.exe"
+        type="application/octet-stream"
+        rel="installationmedia"
+
+        discovery:targetFilename="nuget-anycpu.exe"
+        discovery:type="assembly"
+        media="(OS:windows)"
+    />
+</SoftwareIdentity>

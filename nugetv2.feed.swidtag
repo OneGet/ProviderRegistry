@@ -34,10 +34,8 @@
         media="(OS:windows)"
     />
 
-  <!--
-
   <Link
-        href="https://az818661.vo.msecnd.net/providers/nuget-2.8.5.122.package.swidtag"
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/master/nuget-2.8.5.122.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         
@@ -47,7 +45,7 @@
     />
 
   <Link
-        href="https://az818661.vo.msecnd.net/providers/nuget-2.8.5.101.package.swidtag"
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/master/nuget-2.8.5.101.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         
@@ -57,7 +55,7 @@
     />
 
     <Link
-        href="https://az818661.vo.msecnd.net/providers/nuget-2.8.5.24.package.swidtag"
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/master/nuget-2.8.5.24.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         
@@ -65,5 +63,5 @@
         discovery:version="2.8.5.24"
         media="(OS:windows)"
     />
-    -->
+
 </SoftwareIdentity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SoftwareIdentity
+    xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd"
+    xmlns:discovery="http://packagemanagement.org/discovery"
+    xmlns:sha512="http://www.w3.org/2001/04/xmlenc#sha512"
+    
+    name="nuget"
+    versionScheme="multipartnumeric"
+    media="(windows)"
+    tagVersion="1"    version='2.8.5.202' 
+    uniqueId='nuget.2.8.5.202'
+>
+
+  <Payload>
+        <File name="Microsoft.PackageManagement.NuGetProvider.dll"
+           sha512:hash="gh6ETbFoBAWfHwyzQP3OnPJfjNvOGZamQZn3MkZRnNmtPpZO7OBEYSXcAIIWP56w2x6B7SSc18mow6Wf0PvPsA==" />
+  </Payload>
+  
+  <Meta
+      providerName="nuget"
+      providerVersion='2.8.5.202'
+      summary="NuGet provider for the OneGet meta-package manager"
+  />
+
+  <Link
+      href='https://az818661.vo.msecnd.net/providers/Microsoft.PackageManagement.NuGetProvider-coreclr-2.8.5.202.dll'
+      type="application/octet-stream"
+      rel="installationmedia"
+
+      discovery:targetFilename="Microsoft.PackageManagement.NuGetProvider.dll"
+      discovery:type="assembly"
+      media="(OS:windows)"
+  />
+ </SoftwareIdentity>

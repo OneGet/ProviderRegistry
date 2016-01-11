@@ -15,6 +15,16 @@
     -->
 
     <Link
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/master/nuget-2.8.5.202.package.swidtag"
+        type="application/swid-tag+xml"
+        rel="package"
+        
+        discovery:name="nuget"
+        discovery:version="2.8.5.202"
+        media="(OS:windows)"
+    />
+
+    <Link
         href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/master/nuget-2.8.5.201.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"

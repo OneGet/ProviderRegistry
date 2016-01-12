@@ -13,7 +13,7 @@
 
   <Payload>
         <File name="Microsoft.PackageManagement.NuGetProvider.dll"
-           sha512:hash="cDR7drD+sDzdrBrFM7uNUd0VTh+1d7YIhAnIvRfHBI6QsBn7wcPAPAjRWW1BE4hpKLPo4jn8En+yX0NKmycrtw==" />
+           sha512:hash="Rr5zZCdkqtlohbj5F3/ieK59OV+l8cZ8T+yDpfiK0UbYy2Wcm1ssuVXnghS1HTEoOm/W7kixacYI1qG6Y3mVnQ==" />
   </Payload>
 
   <Meta

@@ -11,10 +11,12 @@
     uniqueId='nuget.2.8.5.202'
 >
 
+  <!--
   <Payload>
         <File name="Microsoft.PackageManagement.NuGetProvider.dll"
            sha512:hash="cu6b6uyEnYT7cmPUzrwDq+tN3Lquzb8XIsY2B1cf1WtXPfTZhcpRDkSdK0rytg8UcnCVP19E01Nroi12vDb+qA==" />
   </Payload>
+  -->
   
   <Meta
       providerName="nuget"

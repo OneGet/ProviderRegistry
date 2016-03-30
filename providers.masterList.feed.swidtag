@@ -15,13 +15,13 @@
     -->
 
      <Link
-        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/nuget-2.8.5.201.package.swidtag"
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/nuget-2.8.5.202.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         
         discovery:name="nuget"
         discovery:latest="true"
-        discovery:version="2.8.5.201"
+        discovery:version="2.8.5.202"
         media="(windows)"
     />
 

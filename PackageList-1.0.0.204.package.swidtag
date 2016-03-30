@@ -29,7 +29,7 @@
   />
   
     <Link
-      href='Bootstrap:NuGet/2.8.5.204'
+      href='NuGet/2.8.5.204'
       type="application/vnd.packagemanagement.nuget-package"
       rel="requires"
   />

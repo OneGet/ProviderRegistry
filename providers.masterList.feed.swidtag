@@ -25,13 +25,13 @@
         media="(windows)"
     />
     <Link
-        href="file:////rr1mspn250325/Distribution/Jianyunt/Shared/swid/PackageList-2.8.5.301.package.swidtag"
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/PackageList-1.0.0.204.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         
         discovery:name="packagelist"
         discovery:latest="true"
-        discovery:version="2.8.5.301"
+        discovery:version="1.0.0.204"
         media="(OS:windows)"
     />
 

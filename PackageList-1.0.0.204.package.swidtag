@@ -25,11 +25,11 @@
 
       discovery:targetFilename="Microsoft.PackageManagement.PackageListProvider.dll"
       discovery:type="assembly"
-      media="(OS:windows)"
+      media="(OS:windows)
   />
   
     <Link
-      href='NuGet/2.8.5.204'
+      href='NuGet/2.8.5.204#https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/nuget-2.8.5.204.package.swidtag'
       type="application/vnd.packagemanagement.nuget-package"
       rel="requires"
   />

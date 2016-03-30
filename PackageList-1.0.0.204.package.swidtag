@@ -19,7 +19,7 @@
   />
 
   <Link
-      href='https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/Microsoft.PackageManagement.PackageListProvider.dll'
+      href='\\rr1mspn250325\Distribution\Jianyunt\Shared\Swid\301\Microsoft.PackageManagement.PackageListProvider.dll'
       type="application/vnd.packagemanagement.nuget-package"
       rel="installationmedia"
 

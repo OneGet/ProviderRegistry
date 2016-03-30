@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SoftwareIdentity
+    xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd"
+    xmlns:discovery="http://packagemanagement.org/discovery"
+    xmlns:sha512="http://www.w3.org/2001/04/xmlenc#sha512"    
+    
+    name="packagelist"
+    versionScheme="multipartnumeric"
+    media="(windows)"
+    tagVersion="1"
+    version='1.0.0.204' 
+    uniqueId='packagelist.1.0.0.204'
+>
+
+  <Meta
+      providerName="packagelist"
+      providerVersion='1.0.0.204'
+      summary="packagelist provider for the OneGet meta-package manager"
+  />
+
+  <Link
+      href='https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/Microsoft.PackageManagement.PackageListProvider.dll'
+      type="application/vnd.packagemanagement.nuget-package"
+      rel="installationmedia"
+
+      discovery:targetFilename="Microsoft.PackageManagement.PackageListProvider.dll"
+      discovery:type="assembly"
+      media="(OS:windows)"
+  />
+ </SoftwareIdentity>

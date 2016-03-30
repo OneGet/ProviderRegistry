@@ -25,7 +25,7 @@
 
       discovery:targetFilename="Microsoft.PackageManagement.PackageListProvider.dll"
       discovery:type="assembly"
-      media="(OS:windows)
+      media="(OS:windows)"
   />
   
     <Link

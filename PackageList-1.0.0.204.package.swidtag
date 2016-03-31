@@ -35,6 +35,7 @@
        
       discovery:targetFilename="Microsoft.PackageManagement.NuGetProvider.dll"
       discovery:type="assembly"
-     
+      discovery:name="NuGet"
+      discovery:version="2.8.5.204"
   />
  </SoftwareIdentity>

@@ -29,7 +29,7 @@
   />
   
     <Link
-      href='NuGet/2.8.5.204#https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/nuget-2.8.5.204.package.swidtag'
+      href='https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/nuget-2.8.5.204.package.swidtag'
       type="application/vnd.packagemanagement.nuget-package"
       rel="requires"
   />

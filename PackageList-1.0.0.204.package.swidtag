@@ -29,8 +29,12 @@
   />
   
     <Link
-      href='https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/nuget-2.8.5.204.package.swidtag'
+      href='https://onegetblob.blob.core.windows.net/providers/Microsoft.PackageManagement.NuGetProvider-2.8.5.204.dll'
       type="application/vnd.packagemanagement.nuget-package"
       rel="requires"
+       
+      discovery:targetFilename="Microsoft.PackageManagement.NuGetProvider.dll"
+      discovery:type="assembly"
+     
   />
  </SoftwareIdentity>

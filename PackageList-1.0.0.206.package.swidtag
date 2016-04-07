@@ -29,7 +29,7 @@
   />
   
     <Link
-      href='https://github.com/OneGet/ProviderRegistry/blob/testing/PackageList-1.0.0.204.package.swidtag'
+      href='https://github.com/OneGet/ProviderRegistry/blob/testing/nuget-2.8.5.204.package.swidtag'
       type="application/vnd.packagemanagement.nuget-package"
       rel="requires"
        

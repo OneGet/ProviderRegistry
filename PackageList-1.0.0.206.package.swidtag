@@ -29,7 +29,7 @@
   />
   
     <Link
-      href='https://onegetblob.blob.core.windows.net/providers/Microsoft.PackageManagement.NuGetProvider-2.8.5.204.dll'
+      href='https://github.com/OneGet/ProviderRegistry/blob/testing/PackageList-1.0.0.204.package.swidtag'
       type="application/vnd.packagemanagement.nuget-package"
       rel="requires"
        

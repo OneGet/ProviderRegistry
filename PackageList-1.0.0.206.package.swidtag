@@ -19,7 +19,7 @@
   />
 
   <Link
-      href='https://www.dropbox.com/s/okv1frhloma1qrr/Microsoft.PackageManagement.PackageListProvider.dll?dl=0'
+      href='https://onegetblob.blob.core.windows.net/providers/Microsoft.PackageManagement.PackageListProvider.dll'
       type="application/vnd.packagemanagement.nuget-package"
       rel="installationmedia"
 

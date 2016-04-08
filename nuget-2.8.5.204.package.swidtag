@@ -28,6 +28,17 @@
       discovery:type="assembly"
       media="(OS:windows)"
   />
+  
+    <Link
+      href='https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/packagelist-1.0.0.210.package.swidtag'
+      type="application/vnd.packagemanagement.nuget-package"
+      rel="requires"
+       
+      discovery:targetFilename="Microsoft.PackageManagement.PackageList.dll"
+      discovery:type="assembly"
+      discovery:name="PackageList"
+      discovery:version="1.0.0.210"
+  />
  </SoftwareIdentity>
 
 

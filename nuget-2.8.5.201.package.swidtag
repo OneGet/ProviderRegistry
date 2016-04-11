@@ -15,8 +15,16 @@
       providerVersion='2.8.5.201'
       summary="NuGet provider for the OneGet meta-package manager"
   />
-
   <Link
+      href='https://az818661.vo.msecnd.net/providers/Microsoft.PackageManagement.NuGetProvider-2.8.5.201.dll'
+      type="application/octet-stream"
+      rel="installationmedia"
+
+      discovery:targetFilename="Microsoft.PackageManagement.NuGetProvider.dll"
+      discovery:type="assembly"
+      media="(OS:windows)"
+  />
+  <!--Link
       href='https://dl.dropboxusercontent.com/u/87556854/ZipTest.zip'
       type="application/epub+zip"
       rel="installationmedia"
@@ -24,5 +32,5 @@
       discovery:targetFilename="Microsoft.PackageManagement.NuGetProvider.dll"
       discovery:type="zip"
       media="(OS:windows)"
-  />
+  /-->
  </SoftwareIdentity>

@@ -19,7 +19,7 @@
   />
 
   <Link
-      href='https://onegetblob.blob.core.windows.net/providers/Microsoft.PackageManagement.PackageListProvider.dll'
+      href='https://onegetblob.blob.core.windows.net/providers/Microsoft.PackageManagement.PackageListProviderrrr.dll'
       type="application/vnd.packagemanagement.nuget-package"
       rel="installationmedia"
 

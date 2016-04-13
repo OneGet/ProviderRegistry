@@ -31,13 +31,10 @@
   
     <Link
       href='https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/packagelist-1.0.0.210.package.swidtag'
-      type="application/vnd.packagemanagement.nuget-package"
+      type="application/swid-tag+xml"
       rel="requires"
-       
-      discovery:targetFilename="Microsoft.PackageManagement.PackageList.dll"
-      discovery:type="assembly"
-      discovery:name="PackageList"
-      discovery:version="1.0.0.210"
+      
+      media="(OS:windows)"
   />
  </SoftwareIdentity>
 

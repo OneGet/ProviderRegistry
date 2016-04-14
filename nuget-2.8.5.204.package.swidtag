@@ -30,7 +30,7 @@
   />
   
     <Link
-      href='https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/packagelist.feed.swidtag'
+      href='https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/packagelist.feed.swdidtag'
       type="application/swid-tag+xml"
       rel="requires"
       

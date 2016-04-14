@@ -21,7 +21,7 @@
   <Link
       href='https://onegetblob.blob.core.windows.net/providers/Microsoft.PackageManagement.PackageListProvider.dll'
       type="application/vnd.packagemanagement.nuget-package"
-      rel="installationmedidsfa"
+      rel="installationmedia"
 
       discovery:targetFilename="Microsoft.PackageManagement.PackageListProvider.dll"
       discovery:type="assembly"

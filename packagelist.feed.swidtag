@@ -19,7 +19,7 @@
         type="application/swid-tag+xml"
         rel="package"
         
-        discovery:name="nuget"
+        discovery:name="packagelist"
         discovery:latest="true"
         discovery:version="1.0.0.210"
         media="(OS:windows)"
@@ -30,7 +30,7 @@
         type="application/swid-tag+xml"
         rel="package"
         
-        discovery:name="nuget"
+        discovery:name="packagelist"
         discovery:version="1.0.0.206"
         media="(OS:windows)"
     />

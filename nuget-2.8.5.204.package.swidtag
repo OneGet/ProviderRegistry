@@ -34,7 +34,8 @@
       type="application/swid-tag+xml"
       rel="requires"
       
-      
+      discovery:name="packagelist"
+      discovery:version="1.0.0.206"
       media="(OS:windows)"
   />
  </SoftwareIdentity>

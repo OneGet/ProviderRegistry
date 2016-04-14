@@ -30,12 +30,11 @@
   />
   
     <Link
-      href='https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/packagelist-1.0.0.210.package.swidtag'
+      href='https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/packagelist.feed.swidtag'
       type="application/swid-tag+xml"
       rel="requires"
       
       discovery:name="packagelist"
-      discovery:version="1.0.0.206"
       media="(OS:windows)"
   />
  </SoftwareIdentity>

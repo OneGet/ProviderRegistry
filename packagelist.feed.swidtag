@@ -14,7 +14,20 @@
         the providers that the bootstrapper can download.
     -->
 
-     <Link
+
+
+   <Link
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/myalbum-0.1.2.package.swidtag"
+        type="application/swid-tag+xml"
+        rel="package"
+        
+        discovery:name="myalbum"
+        discovery:latest="true"
+        discovery:version="0.1.2"
+        media="(OS:windows)"
+    />
+    
+     <!--Link
         href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/packagelist-1.0.0.210.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
@@ -33,7 +46,7 @@
         discovery:name="packagelist"
         discovery:version="1.0.0.206"
         media="(OS:windows)"
-    />
+    /-->
 
     
 </SoftwareIdentity>

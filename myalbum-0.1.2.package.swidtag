@@ -19,7 +19,7 @@
   />
 
   <Link
-      href='https://www.powershellgallery.com/api/v2/'
+      href='"PowerShellGet:MyAlbum/0.1.2#https://www.powershellgallery.com/api/v2/'
       type="application/vnd.packagemanagement-canonicalid"
       rel="installationmedia"
 

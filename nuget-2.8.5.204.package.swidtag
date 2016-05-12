@@ -34,7 +34,7 @@
       type="application/swid-tag+xml"
       rel="requires"
       
-      discovery:name="myalbum"
+      discovery:name="packagelist"
       media="(OS:windows)"
   />
  </SoftwareIdentity>

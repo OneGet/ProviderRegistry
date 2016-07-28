@@ -33,7 +33,7 @@
         discovery:latest="true"
         discovery:version="1.0.0.210"
         media="(OS:windows)"
-    >
+    />
 
     <Link
         href="https://oneget.org/ChocolateyPrototype-2.8.5.130.package.swidtag"

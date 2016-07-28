@@ -15,7 +15,7 @@
   <Meta
       providerName="psl"
       providerVersion='1.0.0.210'
-      summary="packagelist provider for the OneGet meta-package manager"
+      summary="psl provider for the OneGet meta-package manager"
   />
 
   <Link

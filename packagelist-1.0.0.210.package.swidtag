@@ -19,11 +19,11 @@
   />
 
   <Link
-      href='https://onegetblob.blob.core.windows.net/providers/Microsoft.PackageManagement.PackageListProvider.dll'
+      href='https://onegetblob.blob.core.windows.net/providers/Microsoft.PackageManagement.PackageSourceListProvider.dll'
       type="application/vnd.packagemanagement.nuget-package"
       rel="installationmedia"
 
-      discovery:targetFilename="Microsoft.PackageManagement.PackageListProvider.dll"
+      discovery:targetFilename="Microsoft.PackageManagement.PackageSourceListProvider.dll"
       discovery:type="assembly"
       media="(OS:windows)"
   />

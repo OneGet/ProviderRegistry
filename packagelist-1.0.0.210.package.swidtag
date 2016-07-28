@@ -4,7 +4,7 @@
     xmlns:discovery="http://packagemanagement.org/discovery"
     xmlns:sha512="http://www.w3.org/2001/04/xmlenc#sha512"    
     
-    name="packagelist"
+    name="psl"
     versionScheme="multipartnumeric"
     media="(windows)"
     tagVersion="1"
@@ -13,7 +13,7 @@
 >
 
   <Meta
-      providerName="packagelist"
+      providerName="psl"
       providerVersion='1.0.0.210'
       summary="packagelist provider for the OneGet meta-package manager"
   />

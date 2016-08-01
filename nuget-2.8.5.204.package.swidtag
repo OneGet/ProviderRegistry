@@ -29,14 +29,14 @@
       media="(OS:windows)"
   />
   
-    <Link
+    <!--Link
       href='https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/packagelist.feed.swidtag'
       type="application/swid-tag+xml"
       rel="requires"
       
       discovery:name="packagelist"
       media="(OS:windows)"
-  />
+  /-->
  </SoftwareIdentity>
 
 

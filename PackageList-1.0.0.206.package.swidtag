@@ -28,7 +28,7 @@
       media="(OS:windows)"
   />
   
-    <Link
+    <!--Link
       href='https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/nuget-2.8.5.204.package.swidtag'
       type="application/vnd.packagemanagement.nuget-package"
       rel="requires"
@@ -37,6 +37,6 @@
       discovery:type="assembly"
       discovery:name="NuGet"
       discovery:version="2.8.5.204"
-  />
+  /-->
  </SoftwareIdentity>
 

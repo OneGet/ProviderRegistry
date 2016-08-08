@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SoftwareIdentity
+    xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd"
+    xmlns:discovery="http://packagemanagement.org/discovery"
+    xmlns:sha512="http://www.w3.org/2001/04/xmlenc#sha512"    
+    
+    name="psl"
+    versionScheme="multipartnumeric"
+    media="(windows)"
+    tagVersion="1"
+    version='1.0.0.210' 
+    uniqueId='psl.1.0.0.210'
+>
+
+  <Meta
+      providerName="psl"
+      providerVersion='1.0.0.210'
+      summary="package source list provider for the OneGet meta-package manager"
+  />
+
+  <Link
+      href='https://onegetblob.blob.core.windows.net/providers/Microsoft.PackageManagement.PackageSourceListProvider-coreclr-1.0.0.210.dll'
+      type="application/vnd.packagemanagement.nuget-package"
+      rel="installationmedia"
+
+      discovery:targetFilename="Microsoft.PackageManagement.PackageSourceListProvider-coreclr-1.0.0.210.dll"
+      discovery:type="assembly"
+      media="(OS:windows)"
+  />
+  
+ </SoftwareIdentity>

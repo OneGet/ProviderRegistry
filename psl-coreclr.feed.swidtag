@@ -15,12 +15,13 @@
     -->
 
    <Link
-        href="https://github.com/OneGet/ProviderRegistry/blob/testing/psl-coreclr-1.0.0.210.package.swidtag"
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/psl-coreclr-1.0.0.210.package.swidtag"
         type="application/swid-tag+xml"
         rel="package"
         
         discovery:name="psl"
         discovery:version="1.0.0.210"
+        discovery:latest="true"
         media="(OS:windows)"
     />
     

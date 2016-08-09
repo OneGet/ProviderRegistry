@@ -23,7 +23,7 @@
       type="application/vnd.packagemanagement.nuget-package"
       rel="installationmedia"
 
-      discovery:targetFilename="Microsoft.PackageManagement.PackageSourceListProvider-1.0.0.210.dll"
+      discovery:targetFilename="Microsoft.PackageManagement.PackageSourceListProvider.dll"
       discovery:type="assembly"
       media="(OS:windows)"
   />

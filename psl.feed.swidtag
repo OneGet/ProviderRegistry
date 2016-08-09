@@ -21,6 +21,7 @@
         
         discovery:name="psl"
         discovery:version="1.0.0.210"
+        discovery:latest="true"
         media="(OS:windows)"
     />
     

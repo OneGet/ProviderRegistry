@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoftwareIdentity xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xmlns:discovery="http://packagemanagement.org/discovery"
+    
+    patch="false"
+    media="(OS:windows)"
+    name="PSL.Providers"
+    tagVersion="1" uniqueId="PSL.Providers"
+    version="1.0.0.210" versionScheme="multipartnumeric">
+
+    <!--
+        This swidtag is a Discovery Feed that has pointers to the SWIDTAGs for
+        the providers that the bootstrapper can download.
+    -->
+
+   <Link
+        href="https://github.com/OneGet/ProviderRegistry/blob/testing/psl-1.0.0.210.package.swidtag"
+        type="application/swid-tag+xml"
+        rel="package"
+        
+        discovery:name="psl"
+        discovery:version="1.0.0.210"
+        media="(OS:windows)"
+    />
+    
+    
+</SoftwareIdentity>

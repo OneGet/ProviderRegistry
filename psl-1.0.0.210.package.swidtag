@@ -19,7 +19,7 @@
   />
 
   <Link
-      href='https://onegetblob.blob.core.windows.net/psl/Microsoft.PackageManagement.PackageSourceListProvider-coreclr-1.0.0.210.dll'
+      href='https://onegetblob.blob.core.windows.net/psl/Microsoft.PackageManagement.PackageSourceListProvider-1.0.0.210.dll'
       type="application/vnd.packagemanagement.nuget-package"
       rel="installationmedia"
 

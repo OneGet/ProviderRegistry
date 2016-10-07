@@ -10,7 +10,7 @@
     uniqueId='0install.2.11.10'>
 
    <Link
-        href="https://onegetblob.blob.core.windows.net/test/zeroinstall-2.11.10.package.swidtag" 
+        href="https://raw.githubusercontent.com/OneGet/ProviderRegistry/testing/zeroinstall.feed.swidtag" 
         type="application/swid-tag+xml"
         rel="package"
         
